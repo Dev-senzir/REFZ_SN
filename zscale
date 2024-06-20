@@ -1,4 +1,4 @@
-git clone https://github.com/TZThon/ZTZ TSCALE
+git clone https://github.com/Dev-senzir/source_reefz TSCALE
 cd TSCALE
 pip3 install --upgrade pip
 pip3 install -U -r requirements.txt

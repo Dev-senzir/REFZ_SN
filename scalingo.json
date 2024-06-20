@@ -1,8 +1,8 @@
 {
-    "name": "",
+    "name": "「R𝙴𝙵𝚉」",
     "description": "• تنصيب سـورس ريفز مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
-    "keywords": ["zelzal", "ai","telegram"],
+    "keywords": ["senzir", "ai","telegram"],
     "repository": "https://github.com/TZThon/ZScale",
     "logo": "https://graph.org/file/dc08630c4dc62f59d263b.jpg",
     "stack": "container",
